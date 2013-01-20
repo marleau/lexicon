@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://marleau.github.com/lexicon/sitemap.xml 

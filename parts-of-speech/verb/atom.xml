@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[verb | Lexicon]]></title>
+  <link href="http://marleau.github.com/lexicon/parts-of-speech/verb/atom.xml" rel="self"/>
+  <link href="http://marleau.github.com/lexicon/"/>
+  <updated>2013-01-20T00:03:06-08:00</updated>
+  <id>http://marleau.github.com/lexicon/</id>
+  <author>
+    <name><![CDATA[rel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[remit]]></title>
+    <link href="http://marleau.github.com/lexicon/define/remit/"/>
+    <updated>2013-01-11T00:58:00-08:00</updated>
+    <id>http://marleau.github.com/lexicon/define/remit</id>
+    <content type="html"><![CDATA[<ul>
+<li>Cancel or refrain from exacting or inflicting (a debt or punishment)</li>
+<li>Send in payment or as a gift</li>
+<li>Refer (a matter or decision) to some authority</li>
+</ul>
+
+
+<hr />
+
+<ul>
+<li>The task or area of activity officially assigned to an individual or organization</li>
+<li>An item referred to someone for consideration</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

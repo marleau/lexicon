@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[adjective | Lexicon]]></title>
+  <link href="http://marleau.github.com/lexicon/parts-of-speech/adjective/atom.xml" rel="self"/>
+  <link href="http://marleau.github.com/lexicon/"/>
+  <updated>2013-01-20T00:03:06-08:00</updated>
+  <id>http://marleau.github.com/lexicon/</id>
+  <author>
+    <name><![CDATA[rel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[bellicose]]></title>
+    <link href="http://marleau.github.com/lexicon/define/bellicose/"/>
+    <updated>2013-01-13T00:58:00-08:00</updated>
+    <id>http://marleau.github.com/lexicon/define/bellicose</id>
+    <content type="html"><![CDATA[<p>Demonstrating aggression and willingness to fight</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[pejorative]]></title>
+    <link href="http://marleau.github.com/lexicon/define/pejorative/"/>
+    <updated>2013-01-13T00:54:00-08:00</updated>
+    <id>http://marleau.github.com/lexicon/define/pejorative</id>
+    <content type="html"><![CDATA[<p>Expressing contempt or disapproval</p>
+
+<hr />
+
+<p>A word expressing contempt or disapproval</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[nihilistic]]></title>
+    <link href="http://marleau.github.com/lexicon/define/nihilistic/"/>
+    <updated>2013-01-10T02:31:00-08:00</updated>
+    <id>http://marleau.github.com/lexicon/define/nihilistic</id>
+    <content type="html"><![CDATA[<p>Rejecting all religious and moral principles in the belief that life is meaningless</p>
+
+<!-- more -->
+
+
+<p><blockquote><p>You may find Myers-Briggs to be about as accurate as astrology or fortune cookies or this seriously nihilistic color quiz.</p><footer><strong>Huffington Post</strong> <cite><a href='http://www.huffingtonpost.com/2012/07/06/myers-briggs-fiction_n_1652300.html'>16 Fiction Book Characters' Myers-Briggs Personality Types</a></cite></footer></blockquote></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[byronic]]></title>
+    <link href="http://marleau.github.com/lexicon/define/byronic/"/>
+    <updated>2013-01-10T02:17:00-08:00</updated>
+    <id>http://marleau.github.com/lexicon/define/byronic</id>
+    <content type="html"><![CDATA[<ul>
+<li>(Of a man) dark and alluring</li>
+<li>characteristic of Lord Byron or his poetry</li>
+</ul>
+
+
+<!-- more -->
+
+
+<p><blockquote><p>In stories with byronic heroes or scoundrelly protagonists, ISTJs are likely to serve as the antagonist, adhering too steadfastly to laws, gender roles and traditions.</p><footer><strong>Huffinton Post</strong> <cite><a href='http://www.huffingtonpost.com/2012/07/06/myers-briggs-fiction_n_1652300.html'>16 Fiction Book Characters' Myers-Briggs Personality Types</a></cite></footer></blockquote></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[pedantic]]></title>
+    <link href="http://marleau.github.com/lexicon/define/pedantic/"/>
+    <updated>2013-01-06T21:39:00-08:00</updated>
+    <id>http://marleau.github.com/lexicon/define/pedantic</id>
+    <content type="html"><![CDATA[<p>Excessively concerned with minor details and rules or with displaying academic learning</p>
+]]></content>
+  </entry>
+  
+</feed>
