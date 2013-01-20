@@ -1,0 +1,9 @@
+---
+layout: word
+title: "pallid"
+date: 2013-01-06 21:27
+categories: adjective
+---
+
+* Pale, typically because of poor heath
+* Feeble or insipid

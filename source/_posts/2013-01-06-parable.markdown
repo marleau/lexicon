@@ -1,0 +1,8 @@
+---
+layout: word
+title: "parable"
+date: 2013-01-06 19:26
+categories: noun
+---
+
+A simple story used to illustrate a moral or spiritual lesson

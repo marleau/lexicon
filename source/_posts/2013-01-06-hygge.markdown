@@ -1,0 +1,14 @@
+---
+layout: word
+title: "hygge"
+date: 2013-01-06 18:09
+categories: noun
+---
+
+A situation that induces a cheerful mood, peace of mind, with connotation of belonging and social acceptance, coziness and unhurry
+
+<!-- more -->
+
+{% blockquote Dwell http://www.dwell.com/magazine/modern-less February 2013, Vol. 13 Issue 03, p.32 %}
+The Danish concept of hygge--a sense of warmth that pervades even the sleekest modern household--is becoming familiar around the world that to these cozy-making goods under $250.
+{% endblockquote %}

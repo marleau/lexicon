@@ -1,0 +1,9 @@
+---
+layout: word
+title: "pedantic"
+date: 2013-01-06 21:39
+categories: adjective
+pronounciation: 
+---
+
+Excessively concerned with minor details and rules or with displaying academic learning

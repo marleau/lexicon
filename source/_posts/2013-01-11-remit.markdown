@@ -1,0 +1,16 @@
+---
+layout: word
+title: "remit"
+date: 2013-01-11 00:58
+categories: [ verb, noun ]
+pronounciation: 
+---
+
+* Cancel or refrain from exacting or inflicting (a debt or punishment)
+* Send in payment or as a gift
+* Refer (a matter or decision) to some authority
+
+* * * 
+
+* The task or area of activity officially assigned to an individual or organization
+* An item referred to someone for consideration

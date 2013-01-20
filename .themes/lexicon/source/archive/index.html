@@ -1,0 +1,13 @@
+---
+layout: page
+title: Archive
+footer: false
+---
+
+<div id="archive">
+{% sorted_for post in site.posts sort_by:title %}
+<article>
+  {% include archive_post.html %}
+</article>
+{% endsorted_for %}
+</div>

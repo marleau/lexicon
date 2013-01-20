@@ -1,0 +1,23 @@
+---
+layout: default
+title: alphabet
+footer: false
+---
+
+<div id="sorted-alphabetically">
+    {% for group in site.group_by_alphabet %}
+        <article class="clearfix">
+        <h1 class="left">{{ group[0] }}</h1>
+        <ul class="right">
+            {% for post in group[1] %}
+                <li>
+                    {% comment %}
+                    {% include archive_post.html %}
+                    {% endcomment %}
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+        </article>
+    {% endfor %}
+</div>

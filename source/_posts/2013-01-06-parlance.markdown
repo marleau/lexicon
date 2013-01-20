@@ -1,0 +1,9 @@
+---
+layout: word
+title: "parlance"
+date: 2013-01-06 21:22
+categories: noun
+pronounciation: 
+---
+
+A particular way of speaking or using words, especially a way common to those with a particular job or interest

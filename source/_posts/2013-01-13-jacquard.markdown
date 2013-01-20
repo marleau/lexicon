@@ -1,0 +1,10 @@
+---
+layout: word
+title: "jacquard"
+date: 2013-01-13 00:47
+categories: noun
+pronounciation: 
+---
+
+* An apparatus with perforated cards, fitted to a loom to facilitate the weaving of figured and brocaded fabrics
+* A fabric made on a loom with such a device, with an intricate variagated pattern
