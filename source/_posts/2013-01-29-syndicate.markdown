@@ -14,3 +14,4 @@ pronounciation:
 
 * Control or manage by a syndicate
 * Publish or broadcast simultaneously in a number of newspapers, television stations, etc.
+* Sell a horse to a syndicate
