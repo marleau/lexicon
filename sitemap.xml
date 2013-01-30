@@ -61,12 +61,16 @@
         <lastmod>2013-01-19T23:59:34-08:00</lastmod>
     </url>
     <url>
+        <loc>http://marleau.github.com/lexicon/define/syndicate/</loc>
+        <lastmod>2013-01-29T20:52:47-08:00</lastmod>
+    </url>
+    <url>
         <loc>http://marleau.github.com/lexicon/archive/</loc>
-        <lastmod>2013-01-19T23:59:34-08:00</lastmod>
+        <lastmod>2013-01-29T20:52:47-08:00</lastmod>
     </url>
     <url>
         <loc>http://marleau.github.com/lexicon/</loc>
-        <lastmod>2013-01-19T23:59:34-08:00</lastmod>
+        <lastmod>2013-01-29T20:52:47-08:00</lastmod>
     </url>
     <url>
         <loc>http://marleau.github.com/lexicon/parts-of-speech/</loc>
@@ -78,10 +82,10 @@
     </url>
     <url>
         <loc>http://marleau.github.com/lexicon/sort-by/alphabet/</loc>
-        <lastmod>2013-01-19T23:59:34-08:00</lastmod>
+        <lastmod>2013-01-29T20:52:47-08:00</lastmod>
     </url>
     <url>
         <loc>http://marleau.github.com/lexicon/sort-by/parts-of-speech/</loc>
-        <lastmod>2013-01-19T23:59:34-08:00</lastmod>
+        <lastmod>2013-01-29T20:52:47-08:00</lastmod>
     </url>
 </urlset>

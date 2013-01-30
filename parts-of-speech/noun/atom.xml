@@ -4,7 +4,7 @@
   <title><![CDATA[noun | Lexicon]]></title>
   <link href="http://marleau.github.com/lexicon/parts-of-speech/noun/atom.xml" rel="self"/>
   <link href="http://marleau.github.com/lexicon/"/>
-  <updated>2013-01-20T00:03:06-08:00</updated>
+  <updated>2013-01-29T20:54:50-08:00</updated>
   <id>http://marleau.github.com/lexicon/</id>
   <author>
     <name><![CDATA[rel]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[syndicate]]></title>
+    <link href="http://marleau.github.com/lexicon/define/syndicate/"/>
+    <updated>2013-01-29T20:36:00-08:00</updated>
+    <id>http://marleau.github.com/lexicon/define/syndicate</id>
+    <content type="html"><![CDATA[<ul>
+<li>A group of individuals or orgnaizations combined to promote some common interest</li>
+<li>An association or agency material simultaneously to a number of newspapers or periodicals</li>
+<li>A committee of syndics</li>
+</ul>
+
+
+<hr />
+
+<ul>
+<li>Control or manage by a syndicate</li>
+<li>Publish or broadcast simultaneously in a number of newspapers, television stations, etc.</li>
+<li>Sell (a horse) to a syndicate</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[pejorative]]></title>
@@ -67,15 +90,6 @@
 <li>An item referred to someone for consideration</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[arboretum]]></title>
-    <link href="http://marleau.github.com/lexicon/define/arboretum/"/>
-    <updated>2013-01-11T00:56:00-08:00</updated>
-    <id>http://marleau.github.com/lexicon/define/arboretum</id>
-    <content type="html"><![CDATA[<p>A botanical garden dedicated to trees</p>
 ]]></content>
   </entry>
   
